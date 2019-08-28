@@ -5,4 +5,9 @@
 #极端随机树(Extra Trees)
 
 提升（boosting）算法：训练多个模型并组成一个序列，序列中的每一个模型会修正前一个模型的错误。
+
+#Adaboost
+#随机梯度提升(Stochastic Gradient Boosting)
+
+
 投票（voting）算法：训练多个模型，并采用样本统计来提高模型的准确度。
